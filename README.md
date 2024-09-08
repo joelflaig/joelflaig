@@ -1,6 +1,7 @@
 # Joel Flaig - `joelflaig`
 
-Hi, I'm **Joel**—a teenager sitting in his mom's cellar, developing *Skynet*, a software thats gonna literally change the world.
+Hi, I'm **Joel**—a teenager sitting in his mom's cellar, developing *Skynet*, a software thats *literally* gonna change the world.  
+I'm just kidding.
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/joelflaig">
