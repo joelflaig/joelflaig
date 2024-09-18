@@ -1,11 +1,12 @@
 # Joel Flaig - `joelflaig`
 
 Hi, I'm **Joel**—a teenager sitting in his mom's cellar, developing *Skynet*, a software thats *literally* gonna change the world.  
+It's written in Rust BTW.  
 I'm just kidding.
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/joelflaig">
-    <img src="https://skillicons.dev/icons?i=c,cpp,nix,lua,py,arch,git,neovim" alt="Programming Languages" /></a>
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,nix,lua,py,arch,git,neovim" alt="Programming Languages" /></a>
 </div>
 
 ## GitHub Stats 📊
