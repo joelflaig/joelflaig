@@ -21,3 +21,11 @@ I'm just kidding.
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjy&repo=MechaBar&theme=dark&bg_color=00000000&border_radius=15)](https://github.com/Sejjy/MechaBar)
 -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/joelflaig"
+    width="600"
+    height="120"
+  />
+</a>
